@@ -1,1 +1,1 @@
-# zabbix-test
+# Zabbix test platform 
